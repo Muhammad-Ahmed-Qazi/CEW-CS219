@@ -1,0 +1,8 @@
+The quick brown fox jumps over the lazy dog.
+This file has 3 lines and 15 words, 
+excluding punctuation.
+It also includes numbers (123, 456) and 
+mixed punctuation: semicolon; comma, period.
+Newlines are important. Tabs are too.
+
+Final sentence: A test is complete.
