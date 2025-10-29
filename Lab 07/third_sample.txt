@@ -1,0 +1,7 @@
+This is a sample text file.
+
+This is another line in the same file.
+This is another sample file created using the 'cat' function.
+Command rather than a function. IDIOT!
+This is me appending some other text stuff to the same file.
+Let's see if it works.

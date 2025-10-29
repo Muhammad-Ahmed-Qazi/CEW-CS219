@@ -1,0 +1,29 @@
+Basic difference between GUI and Command-driven interface:
+- Efficiency of command-driven interface: it is faster than GUI
+
+Flags prefixed with '-' and arguments customise their behaviour for precise control over your system.
+
+Command in Linux is a program which is executed... (Duh 🥱)
+
+touch - Create files (also 'cat'; can enter content) (Only create a file, but can't enter contents into the file directly)
+cp - Copy files
+mv - Move or rename
+rm - Remove files
+
+cat - Display content
+grep - Search text
+less - Page through files
+
+uname - System information
+top - Real time monitoring
+ps - List processes
+
+whoami - Current user
+chmod - Change permissions
+chown - Change ownership
+
+ssh - Remote access
+ping - Test connection
+ip/ifconfig - Network config
+
+

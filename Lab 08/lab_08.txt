@@ -1,0 +1,2 @@
+'*' - Any number of characters
+'?' - Single character but unspecified
